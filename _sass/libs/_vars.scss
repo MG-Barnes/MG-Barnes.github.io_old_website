@@ -28,20 +28,87 @@
 		letter-spacing-alt:	0.25em
 	);
 
-// Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
-	);
+	bg:					#f7f9fb,
+	bg-alt:				#f7f9fb,
+	fg:					#000000,
+	fg-bold:			#000000,
+	fg-light:			#5a5a5a,
+	border:				rgba(212, 212, 255, 0.123),
+	border-bg:			rgba(212,212,255,0.035),
+	highlight:			#5AAA95,
+	accent1:			#20639b,
+	accent2:			#3caea3,
+	accent3:			#f6d55c,
+	accent4:			#ed553b,
+	accent5:			#8ea9e8,
+	accent6:			#87c5a4
+);
+
+
+// $palette: (
+// 	bg:					#f7f9fb,
+// 	bg-alt:				#f7f9fb,
+// 	fg:					#000000,
+// 	fg-bold:			#000000,
+// 	fg-light:			rgba(244,244,255,0.2),
+// 	border:				rgba(212,212,255,0.1),
+// 	border-bg:			rgba(212,212,255,0.035),
+// 	highlight:			#5AAA95,
+// 	accent1:			#FCDD88,
+// 	accent2:			#917F78,
+// 	accent3:			#CAE4DB,
+// 	accent4:			#FFC9B5,
+// 	accent5:			#8ea9e8,
+// 	accent6:			#87c5a4
+// );
+
+// $palette: (
+// 	bg:					#f7f9fb,
+// 	bg-alt:				#f7f9fb,
+// 	fg:					#000000,
+// 	fg-bold:			#000000,
+// 	fg-light:			rgba(244,244,255,0.2),
+// 	border:				rgba(212,212,255,0.1),
+// 	border-bg:			rgba(212,212,255,0.035),
+// 	highlight:			#5AAA95,
+// 	accent1:			#005995,
+// 	accent2:			#fbf579,
+// 	accent3:			#fa625f,
+// 	accent4:			#600473,
+// 	accent5:			#8ea9e8,
+// 	accent6:			#87c5a4
+// );
+// /$palette: (
+// 	bg:					#f7f9fb,
+// 	bg-alt:				#f7f9fb,
+// 	fg:					#000000,
+// 	fg-bold:			#000000,
+// 	fg-light:			rgba(244,244,255,0.2),
+// 	border:				rgba(212,212,255,0.1),
+// 	border-bg:			rgba(212,212,255,0.035),
+// 	highlight:			#5AAA95,
+// 	accent1:			#bd8c7d,
+// 	accent2:			#8e8e90,
+// 	accent3:			#d1bfa7,
+// 	accent4:			#49494b,
+// 	accent5:			#8ea9e8,
+// 	accent6:			#87c5a4
+// );
+	// // Palette.
+	// $palette: (
+	// 	bg:					#242943,
+	// 	bg-alt:				#2a2f4a,
+	// 	fg:					#ffffff,
+	// 	fg-bold:			#ffffff,
+	// 	fg-light:			rgba(244,244,255,0.2),
+	// 	border:				rgba(212,212,255,0.1),
+	// 	border-bg:			rgba(212,212,255,0.035),
+	// 	highlight:			#9bf1ff,
+	// 	accent1:			#6fc3df,
+	// 	accent2:			#8d82c4,
+	// 	accent3:			#ec8d81,
+	// 	accent4:			#e7b788,
+	// 	accent5:			#8ea9e8,
+	// 	accent6:			#87c5a4
+	// );

@@ -9,8 +9,13 @@
 	#footer {
 		.copyright {
 			font-size: 0.8em;
+			color: _palette(fg-light);
 			list-style: none;
-			padding-left: 0;
+			text-align: right;
+			padding-right: 2em;
+			// margin-right: 2em;
+			margin-top: -4.25em;
+
 
 			li {
 				border-left: solid 1px _palette(border);
