@@ -23,23 +23,23 @@ nav-menu: true
 polymers, liquid crystal elastomers, shape-shifting materials, covalent organic frameworks</p> 
 ### Education 
 
-<p class="tab"><b>Rice University</b>, Houston, TX, USA 
+<p class="tab"><b>Rice University</b>, Houston, TX
 <span style="float:right;">June 2016 - May 2020 (<i>expected</i>)</span>
-<br>PhD Materials Science and NanoEngineering
+<br><nobr>PhD Materials Science and NanoEngineering</nobr>
 <br>Dissertation (<i>working title</i>): <i>Designing Anisotropic Polymers: From Shape Shifting Elastomers to Strong 2D Films</i>
 <br>Advisor: Dr. Rafael Verduzco
 </p>
 
-<p class="tab"><b>Duke University</b>, Durham, NC, USA
+<p class="tab"><b>Duke University</b>, Durham, NC
 <span style="float:right;">August 2013 - May 2015</span>
-<br>MS Mechanical Engineering and Materials Science, <i>MRSEC Fellow </i>
+<br><nobr>MS Mechanical Engineering </nobr>and Materials Science, <i>MRSEC Fellow </i>
 <br>Masters thesis: <i>Self-Assembled Protein-Based Biomaterials with Tailorable Physical Properties</i>
 <br>Advisor: Dr. Piotr Marszalek
 </p>
 
-<p class="tab"><b>Baylor University</b>, Waco, TX, USA
+<p class="tab"><b>Baylor University</b>, Waco, TX
 <span style="float:right;">August 2009 - May 2013</span>
-<br>BS Mechanical Engineering, <i>Honors</i>
+<br><nobr>BS Mechanical Engineering</nobr>, <i>Honors</i>
 <br>Honors thesis: <i>Modeling and Predicting the Behavior of Viscoelastic Materials</i>
 <br>Advisor: Dr. David Jack
 </p>
@@ -47,63 +47,63 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 ### Professional Experience
 
-<p class="tab"><b>Research Technician</b>, Rice University, Houston, TX, USA 
+<p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
 <span style="float:right;">January 2016 - May 2016</span>
-<br>Worked under Dr. Rebecca Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python
+<br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python
 
 </p>
 
-<p class="tab"><b>Undergraduate Research Assistant</b>, University of Texas, Austin, TX, USA
+<p class="tab"><b>Undergraduate Research Assistant</b>, <nobr>University of Texas, Austin, TX</nobr>
 <span style="float:right;">May 2012  - August 2012</span>
-<br>Worked under Dr. Jorge Zornber studying the wetting and dryink curves of soil and creating data acquisition systems
+<br><nobr>Worked under Dr. Jorge Zornber studying</nobr> the wetting and dryink curves of soil and creating data acquisition systems
 </p>
 
 ### Leadership and Outreach
 
-<p class="tab"><b>Nano in Schools Lecturer</b>, Houston, TX, USA 
+<p class="tab"><b>Nano in Schools Lecturer</b>, Houston, TX
 <span style="float:right;">January 2019</span>
-<br>Was a guest lecturer at local high school chemistry classroom to expose students to graduate school, research, and shape-shifting materials
+<br><nobr>Was a guest lecturer at local high school</nobr> chemistry classroom to expose students to graduate school, research, and shape-shifting materials
 </p>
 
-<p class="tab"><b>NSF RET Mentor</b>, Houston, TX, USA 
+<p class="tab"><b>NSF RET Mentor</b>, Houston, TX
 <span style="float:right;">June 2018 - August 2018</span>
-<br>Mentored a high school teacher in a summer research project as part of the NSF Nanosystems Engineering Research Center for Nanotechnology-Enabled Water Treatment (NEWT) Research Education for Teachers (RET) program
+<br><nobr>Mentored a high school teacher </nobr>in a summer research project as part of the NSF Nanosystems Engineering Research Center for Nanotechnology-Enabled Water Treatment (NEWT) Research Education for Teachers (RET) program
 </p>
 
-<p class="tab"><b>CampSpark! Activity Leader</b>, Houston, TX, USA
+<p class="tab"><b>CampSpark! Activity Leader</b>, Houston, TX
 <span style="float:right;">July 2017</span>
-<br>Designed and taught a hands-on introductory polymer lesson for CampSpark!, a week long research camp for local refugees hosted by Rice University
+<br><nobr>Designed and taught a hands-on introductory</nobr> polymer lesson for CampSpark!, a week long research camp for local refugees hosted by Rice University
 </p>
 
-<p class="tab"><b>SRD Research Mentor</b>, Houston, TX, USA
+<p class="tab"><b>SRD Research Mentor</b>, Houston, TX
 <span style="float:right;">July 2016 - May 2017</span>
-<br>Mentored a local high school student in a research project for the school year as part of a Scientific Research and Design (SRD) high school course
+<br><nobr>Mentored a local high school student</nobr> in a research project for the school year as part of a Scientific Research and Design (SRD) high school course
 </p>
 
 
-<p class="tab"><b>IBB STEM Engagment Mentor</b>, Houston, TX, USA
+<p class="tab"><b>IBB STEM Engagment Mentor</b>, Houston, TX
 <span style="float:right;">July 2016</span>
-<br>Mentored a high school student from the Science Academy of South Texas for a week long research experience hosted by Rice's Institute of Biosciences and Bioengineering (IBB)
+<br><nobr>Mentored a high school student from</nobr> the Science Academy of South Texas for a week long research experience hosted by Rice's Institute of Biosciences and Bioengineering (IBB)
 </p>
 
 <p class="tab"><b>Project Manager</b>, Waco, TX, USA
 <span style="float:right;">January 2012 - December 2012</span>
-<br>Chosen by professors to act as project manager for two separate capstone Baylor engineering courses
+<br><nobr>Chosen by professors to act as</nobr> project manager for two separate capstone Baylor engineering courses
 </p>
 
 <p class="tab"><b>Adult Education Tutor</b>, Waco, TX, USA
 <span style="float:right;">September 2010 - May 2013</span>
-<br>Volunteered regularly with the local <i>Goodwill</i> ongoing education classes to prepare adults for the GED
+<br><nobr>Volunteered regularly with the local</nobr> <i>Goodwill</i> ongoing education classes to prepare adults for the GED
 </p>
 
 ### Teaching
-<p class="tab"><b>MSNE 303: Junior Lab</b>, Houston, TX, USA 
+<p class="tab"><b>MSNE 303: Junior Lab</b>, <nobr>Houston, TX</nobr>
 <span style="float:right;">Spring 2017, 2018, 2019</span>
-<br> Lab Teaching Assistant
+<br> <nobr>Lab Teaching Assistant</nobr>
 <br>Organized, instructed and graded the labs for the undergraduate departmental junior lab   
 </p>
 
-<p class="tab"><b>MSNE 555: Bio-Mimetic Strategies</b>, Houston, TX, USA
+<p class="tab"><b>MSNE 555: Bio-Mimetic Strategies</b>, <nobr>Houston, TX</nobr>
 <span style="float:right;">Spring 2019</span>
 <br> Guest Lecturer
 <br>Gave a guest lecture for the upper level bio-mimetics course covering soft shape-shifting materials and  anti-fouling techniques
