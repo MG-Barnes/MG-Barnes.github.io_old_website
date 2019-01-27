@@ -100,7 +100,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <p class="tab"><b>MSNE 303: Junior Lab</b>, <nobr>Houston, TX</nobr>
 <span style="float:right;">Spring 2017, 2018, 2019</span>
 <br> <nobr>Lab Teaching Assistant</nobr>
-<br>Organized, instructed and graded the labs for the undergraduate departmental junior lab   
+<br>Organized, instructed and graded the labs for the departmental undergraduate junior lab   
 </p>
 
 <p class="tab"><b>MSNE 555: Bio-Mimetic Strategies</b>, <nobr>Houston, TX</nobr>
