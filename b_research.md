@@ -26,7 +26,7 @@ Specifically, I am focused on developing new techniques to easily program arbitr
 
 # 2D Covalent Organic Frameworks
 
-Additionally, I am working to develop and synthesize new 2D covalent organic framework (COF) films. COFs are inherently crystalline and porous materials due to their molecular building blocks and are widely studied for catalysis and filtration applications because of their large surface areas. However, I am interested in synthesizing high-strength high-toughness 2D COF films with inter-layer hydrogen bonding. These 2D COF films have the potential to replace current high-performance polymers such as Kevlar. This work combines organic synthesis, exploring novel processing methods, and mechanical characterization and is supported by and in collaboration with the Army Research Laboratory (W911NF-18-0062). 
+Additionally, I am working to develop and synthesize new 2D covalent organic framework (COF) films. COFs are inherently crystalline and porous materials due to their molecular building blocks and are widely studied for catalysis and filtration applications because of their large surface areas. However, I am interested in synthesizing high-strength high-toughness 2D COF films with inter-layer hydrogen bonding. These polymers films have the potential to replace current high-performance polymers such as Kevlar. This work combines organic synthesis, exploring novel processing methods, and mechanical characterization and is supported by and in collaboration with the Army Research Laboratory (W911NF-18-0062). 
 <div class="row">
 	<div class="6u 12u$(medium)">
         <span class="image fit"><img src="assets/images/needles.jpg" alt=""/></span>
