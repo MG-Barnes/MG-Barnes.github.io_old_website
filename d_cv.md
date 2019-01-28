@@ -55,7 +55,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 <p class="tab"><b>Undergraduate Research Assistant</b>, <nobr>University of Texas, Austin, TX</nobr>
 <span style="float:right;">May 2012  - August 2012</span>
-<br><nobr>Worked under Dr. Jorge Zornber studying</nobr> the wetting and drying curves of soil and creating data acquisition systems
+<br><nobr>Worked under Dr. Jorge Zornberg studying</nobr> the wetting and drying curves of soil and creating data acquisition systems
 </p>
 
 ### Leadership and Outreach
