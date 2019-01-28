@@ -2,7 +2,7 @@
 layout: post
 title: CV
 #description: Lorem ipsum dolor est
-image: assets/images/publications2.JPG
+image: assets/images/cv.png
 nav-menu: true
 ---
  
