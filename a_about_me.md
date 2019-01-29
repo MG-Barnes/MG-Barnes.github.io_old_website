@@ -5,7 +5,7 @@ nav-menu: true
 image: assets/images/about_me_reduced.jpg
 
 ---
-<span class="image right"><img src="assets/images/about_me.jpg" alt="" /></span>
+<span class="image right"><img src="assets/images/about_me_reduced.jpg" alt="" /></span>
 
 My name is Morgan Barnes and I am currently a PhD student at Rice University in the Materials Science and NanoEngineering department and am a member of the [Verduzco Polymer lab](http://verduzcolab.blogs.rice.edu/).
 
