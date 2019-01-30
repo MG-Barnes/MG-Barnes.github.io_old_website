@@ -127,7 +127,7 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
         <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
          <li>ACS National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
-        <li>Smalley-Curl Institue Transdisciplinary Symposium, Rice University, contributed talk, "Extrusion-Aligned Liquid Crystal Elastomer Fibers", 2017</li>
+        <li>Smalley-Curl Institute Transdisciplinary Symposium, Rice University, contributed talk, "Extrusion-Aligned Liquid Crystal Elastomer Fibers", 2017</li>
         <li>Texas Soft Matter Meeting, University of Texas at Dallas, contributed talk, "Step-Growth Liquid Crystal Elastomers with Low Glass Transition Temperatures", 2016</li>
         <li>Industry Symposium, North Carolina Statue University, poster session, "Self-Assembled Biomaterials Using Streptavidin and SpyTag-SpyCatcher", 2015</li>
         <li>Frontiers Conference, Duke University, poster session, "Self-Assembled Protein-Based Soft Materials with Tailorable Viscoelastic Properties", 2014</li>
