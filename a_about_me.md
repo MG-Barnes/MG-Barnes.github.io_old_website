@@ -7,7 +7,7 @@ image: assets/images/about_me_reduced.jpg
 ---
 <span class="image right"><img src="assets/images/about_me_reduced.jpg" alt="" /></span>
 
-</nobr>My name is Morgan Barnes </nobr> and I am currently a PhD student at Rice University in the Materials Science and NanoEngineering department and am a member of the [Verduzco Polymer lab](http://verduzcolab.blogs.rice.edu/).
+<nobr>My name is Morgan Barnes </nobr> and I am currently a PhD student at Rice University in the Materials Science and NanoEngineering department and am a member of the [Verduzco Polymer lab](http://verduzcolab.blogs.rice.edu/).
 
 Polymers are ubiquitous in our lives from the toothbrushes we use, the fabrics we wear and the chairs we sit in. From their conception, isotropic polymers have played a large role in everyday household items and manufacturing because of their low weight and costs. However, as technologies advanced the need for multi-functional materials that exhibit unique mechanical, electrical and optical properties has emerged. These properties are often only available in highly anisotropic polymers. 
 
