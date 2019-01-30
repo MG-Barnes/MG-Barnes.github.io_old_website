@@ -20,7 +20,7 @@ Specifically, I am focused on developing new techniques to easily program arbitr
         <span class="image fit"><img src="assets/images/flower.gif" alt="" /></span>
     </div>
 	<div class="4u$ 12u$(medium)">
-        <span class="image fit"><img src="assets/images/wave.gif" alt="" /></span>
+        <span class="image fit"><img src="assets/images/wave_reduced.gif" alt="" /></span>
 	</div>
 </div>
 
