@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 #description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/cv.jpg
+image: assets/images/swirl.jpg
 nav-menu: true
 ---
 <ol class = "tab">
