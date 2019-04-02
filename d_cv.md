@@ -124,7 +124,7 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
-        <li>American Physical Society, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
+        <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
         <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
          <li>ACS National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
