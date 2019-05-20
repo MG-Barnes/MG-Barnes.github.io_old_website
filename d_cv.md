@@ -116,7 +116,7 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Publications
 <p class="tab">
     <ol class = "tab">
-     <li>(1) Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. </li>
+     <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. </li>
         <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019.</li>
         <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017.</li>
     </ol>
