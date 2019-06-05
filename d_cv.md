@@ -60,6 +60,11 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 ### Leadership and Outreach
 
+<p class="tab"><b>ARO URAP and HSAP Mentor</b>, Houston, TX
+<span style="float:right;">June - August 2019</span>
+<br><nobr>Mentored an undergraduate and high school student during the summer through th Army Research Office (ARO) Undergraduate Research Apprenticeship Program (URAP) and High School Apprenticeship Prgoram (HSAP) grant to develop self-pumping microfluidic liquid crystal elastomer devices
+</p>
+
 <p class="tab"><b>Nano in Schools Lecturer</b>, Houston, TX
 <span style="float:right;">January 2019</span>
 <br><nobr>Was a guest lecturer at local high school</nobr> chemistry classroom to expose students to graduate school, research, and shape-shifting materials
