@@ -170,4 +170,3 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 </p> 
 
 [PDF Version](https://github.com/MG-Barnes/MG-Barnes.github.io/blob/master/assets/images/MGBarnes_CV.pdf)
-[get the PDF]({{ https://github.com/MG-Barnes/MG-Barnes.github.io }}/assets/images/MGBarnes_CV.pdf)
