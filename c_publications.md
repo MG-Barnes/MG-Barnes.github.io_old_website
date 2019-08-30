@@ -13,11 +13,11 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-        <div class="embedded-iframe">
+        <div class="embedded-iframe" style ="text-align:center;">
             <iframe src="https://www.youtube.com/embed/8RVlnatMPjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="6u 12u$(medium)">
+    <div class="6u 12u$(medium)" style ="text-align:center;">
         <div class="embedded-iframe">
             <iframe src="https://www.youtube.com/embed/bmpVSqj2U2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>

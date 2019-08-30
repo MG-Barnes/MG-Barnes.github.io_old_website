@@ -23,13 +23,14 @@ tiles-count: 6
 facebook_url:
 github_url:
 gitlab_url: #https://gitlab.com/u/andrewbanchich
-googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
+googleplus_url: https://scholar.google.com/citations?user=RfwNursAAAAJ&hl=en&oi=sra
 instagram_url: #https://instagram.com
 linkedin_url: #https://www.linkedin.com/in/morgan-barnes-341173b3/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/MGBarnes_
 email: Morgan.Barnes@rice.edu
+google_scholar_url: #https://scholar.google.com/citations?user=RfwNursAAAAJ&hl=en&oi=sra
 
 # build settings
 markdown: kramdown

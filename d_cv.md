@@ -120,16 +120,18 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 
 ### Publications
 <p class="tab">
-    <ol class = "tab">
-     <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. </li>
-        <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019.</li>
-        <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017.</li>
+    <ol reversed class = "tab">
+     <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. <a 
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
+        <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+        <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
     </ol>
 </p> 
 
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
+        <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
         <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
         <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
@@ -145,9 +147,11 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 
 <p class="tab">
     <ul class = "tab">
+        <li>Future Faculty Fellowship, Rice University, 2019</li>
+        <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
         <li>Smalley-Curl Institute Summer Research Symposium Best Presentation award, Rice University, 2018</li>
         <li>Outstanding Teacher's Assistant Award, Rice University, 2018</li>
-         <li>Smalley-Curl Institute Trandisciplinary Symposium travel award, Rice University, 2016</li>
+        <li>Smalley-Curl Institute Trandisciplinary Symposium travel award, Rice University, 2016</li>
         <li>Triangle Materials Research Science and Engineering Center (MRSEC) Fellowship, 2013</li>
         <li>Outstanding Engineering Senior award, Baylor University, 2013</li>
         <li>Who's Who Among Students in American Universities and Colleges award, Baylor University, 2013</li>
@@ -164,3 +168,5 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
         <li>Pi Tau Sigma, National Mechanical Engineering Honors Society</li>
     </ul>
 </p> 
+
+[PDF Version](/assets/images/mgbarnes_CV.pdf)
