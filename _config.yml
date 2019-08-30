@@ -28,7 +28,8 @@ instagram_url: #https://instagram.com
 linkedin_url: #https://www.linkedin.com/in/morgan-barnes-341173b3/
 pinterest_url:
 slack_url:
-twitter_url: #https://twitter.com/MGBarnes_
+twitter_url: https://twitter.com/MGBarnes_
+email: Morgan.Barnes@rice.edu
 
 # build settings
 markdown: kramdown
