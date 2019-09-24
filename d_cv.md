@@ -147,11 +147,12 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 
 <p class="tab">
     <ul class = "tab">
+        <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
         <li>Future Faculty Fellowship, Rice University, 2019</li>
         <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
-        <li>Smalley-Curl Institute Summer Research Symposium Best Presentation award, Rice University, 2018</li>
+        <li>Best Presentation award, Smalley-Curl Institute Summer Research Symposium, Rice University, 2018</li>
         <li>Outstanding Teacher's Assistant Award, Rice University, 2018</li>
-        <li>Smalley-Curl Institute Trandisciplinary Symposium travel award, Rice University, 2016</li>
+        <li>Best Presentation award, Smalley-Curl Institute Trandisciplinary Symposium, Rice University, 2016</li>
         <li>Triangle Materials Research Science and Engineering Center (MRSEC) Fellowship, 2013</li>
         <li>Outstanding Engineering Senior award, Baylor University, 2013</li>
         <li>Who's Who Among Students in American Universities and Colleges award, Baylor University, 2013</li>
