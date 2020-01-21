@@ -124,15 +124,16 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Publications
 <p class="tab">
     <ol reversed class = "tab">
-     <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.       
-     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.     
-     <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019. 
+     <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.</li>      
+     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.</li>    
+     <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.</li>
      <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. <a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
      <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
      <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
     </ol>
 </p> 
+
 
 ### Presentations and Posters
 <p class="tab">
