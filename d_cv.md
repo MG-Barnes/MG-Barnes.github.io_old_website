@@ -46,8 +46,11 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 
 ### Professional Experience
+<p class="tab"><b>ORAU Research Internship</b>, Army Research Laboratory, Aberdeen, MD 
+<span style="float:right;">January 2020 - August 2020</span>
+<br><nobr>Worked under Dr. Emil Sandoz-Rosado</nobr>to synthesize 2D covalent organic framework films with for high-strength high-toughness films
 
-<p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
+</p><p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
 <span style="float:right;">January 2016 - May 2016</span>
 <br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python
 
@@ -121,21 +124,26 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Publications
 <p class="tab">
     <ol reversed class = "tab">
+     <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.       
+     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.     
+     <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019. 
      <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. <a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
-        <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
-        <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
+     <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+     <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
     </ol>
 </p> 
 
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
+        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators, 2020</li>          
+     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020</li>  
         <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
         <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
         <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
-         <li>ACS National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
+         <li>American Chemical Society National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
         <li>Smalley-Curl Institute Transdisciplinary Symposium, Rice University, contributed talk, "Extrusion-Aligned Liquid Crystal Elastomer Fibers", 2017</li>
         <li>Texas Soft Matter Meeting, University of Texas at Dallas, contributed talk, "Step-Growth Liquid Crystal Elastomers with Low Glass Transition Temperatures", 2016</li>
         <li>Industry Symposium, North Carolina Statue University, poster session, "Self-Assembled Biomaterials Using Streptavidin and SpyTag-SpyCatcher", 2015</li>
