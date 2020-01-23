@@ -48,7 +48,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 ### Professional Experience
 <p class="tab"><b>ORAU Research Internship</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">January 2020 - August 2020</span>
-<br><nobr>Worked under Dr. Emil Sandoz-Rosado</nobr> to synthesize 2D covalent organic framework films with for high-strength high-toughness films
+<br><nobr>Worked under Dr. Emil Sandoz-Rosado</nobr> to synthesize 2D covalent organic framework films for high-strength high-toughness films
 
 </p><p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
 <span style="float:right;">January 2016 - May 2016</span>
