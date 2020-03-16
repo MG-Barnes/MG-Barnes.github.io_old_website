@@ -48,19 +48,23 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 ### Experience
 <p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">January 2020 - August 2020</span>
-<br><nobr>Working in the Weapons and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films</p>
+<br><nobr>Working in the Weapons and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films
+</p>
  
 <p class="tab"><b>Graduate Research Assistant</b>, Rice University, Houston, TX 
 <span style="float:right;">June 2016 - Fall 2020 (Expected)</span>
-<br><nobr>Working in the Materials Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films </p>
+<br><nobr>Working in the Materials Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films 
+</p>
 
 <p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
 <span style="float:right;">January 2016 - May 2016</span>
-<br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python</p>
+<br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python
+</p>
 
 <p class="tab"><b>MRSEC Fellow</b>, Duke University, Durham, NC 
 <span style="float:right;">August 2013 - May 2015</span>
-<br><nobr>Worked in the NSF Triangle Materials Research and Engineering center (MRSEC) using AFM force spectroscopy to investigate the crosslinking of click-coupled poly-protein gels</p>
+<br><nobr>Worked in the NSF Triangle Materials Research and Engineering center (MRSEC) using AFM force spectroscopy to investigate the crosslinking of click-coupled poly-protein gels
+</p>
 
 <p class="tab"><b>Undergraduate Research Assistant</b>, <nobr>University of Texas, Austin, TX</nobr>
 <span style="float:right;">May 2012  - August 2012</span>
@@ -93,7 +97,6 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <span style="float:right;">July 2016 - May 2017</span>
 <br><nobr>Mentored a local high school student</nobr> in a research project for the school year as part of a Scientific Research and Design (SRD) high school course
 </p>
-
 
 <p class="tab"><b>IBB STEM Engagment Mentor</b>, Houston, TX
 <span style="float:right;">July 2016</span>
@@ -162,7 +165,7 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 
 <p class="tab">
     <ul class = "tab">
-        <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020
+        <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020</li>
         <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
         <li>Future Faculty Fellowship, Rice University, 2019</li>
         <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
