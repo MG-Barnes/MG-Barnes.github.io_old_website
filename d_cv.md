@@ -45,16 +45,22 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 </p>
 
 
-### Professional Experience
-<p class="tab"><b>ORAU Research Internship</b>, Army Research Laboratory, Aberdeen, MD 
+### Experience
+<p class="tab"><b>ORAU Journeyman Fellowship</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">January 2020 - August 2020</span>
-<br><nobr>Worked under Dr. Emil Sandoz-Rosado</nobr> to synthesize 2D covalent organic framework films for high-strength high-toughness films
+<br><nobr>Working in the Weapons and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films</p>
+ 
+<p class="tab"><b>Graduate Research Assistant</b>, Rice University, Houston, TX 
+<span style="float:right;">June 2016 - Fall 2020 (Expected)</span>
+<br><nobr>Working in the Materials Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films </p>
 
-</p><p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
+<p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
 <span style="float:right;">January 2016 - May 2016</span>
-<br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python
+<br><nobr>Worked under Dr. Rebecca </nobr>Richards-Kortum operating a high resolution microendroscope in a clinical environment and performing data analysis using MATLAB and Python</p>
 
-</p>
+<p class="tab"><b>MRSEC Fellow</b>, Duke University, Durham, NC 
+<span style="float:right;">August 2013 - May 2015</span>
+<br><nobr>Worked in the NSF Triangle Materials Research and Engineering center (MRSEC) using AFM force spectroscopy to investigate the crosslinking of click-coupled poly-protein gels</p>
 
 <p class="tab"><b>Undergraduate Research Assistant</b>, <nobr>University of Texas, Austin, TX</nobr>
 <span style="float:right;">May 2012  - August 2012</span>
@@ -138,8 +144,8 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
-        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators, 2020</li>          
-     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020</li>  
+        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators, 2020 (Cancelled due to COVID-19)</li>          
+     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Cancelled due to COVID-19)</li>  
         <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
         <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
