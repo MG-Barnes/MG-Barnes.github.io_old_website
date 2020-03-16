@@ -90,7 +90,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 <p class="tab"><b>CampSpark! Activity Leader</b>, Houston, TX
 <span style="float:right;">July 2017</span>
-<br><nobr>Designed and taught a hands-on introductory</nobr> polymer lesson for CampSpark!, a week long research camp for local refugees hosted by Rice University
+<br><nobr>Designed and taught a hands-on</nobr> introductory polymer lesson for CampSpark!, a week long research camp for local refugees hosted by Rice University
 </p>
 
 <p class="tab"><b>SRD Research Mentor</b>, Houston, TX
