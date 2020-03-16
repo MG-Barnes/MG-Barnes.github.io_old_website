@@ -46,7 +46,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 
 ### Experience
-<p class="tab"><b>ORAU Journeyman Fellowship</b>, Army Research Laboratory, Aberdeen, MD 
+<p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">January 2020 - August 2020</span>
 <br><nobr>Working in the Weapons and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films</p>
  
@@ -67,7 +67,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <br><nobr>Worked under Dr. Jorge Zornberg studying</nobr> the wetting and drying curves of soil and creating data acquisition systems
 </p>
 
-### Leadership and Outreach
+### Leadership and Engagement
 
 <p class="tab"><b>ARO URAP and HSAP Mentor</b>, Houston, TX
 <span style="float:right;">June - August 2019</span>
@@ -162,6 +162,7 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 
 <p class="tab">
     <ul class = "tab">
+        <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020
         <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
         <li>Future Faculty Fellowship, Rice University, 2019</li>
         <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
