@@ -147,7 +147,7 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
-        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators, 2020 (Cancelled due to COVID-19)</li>          
+        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Cancelled due to COVID-19)</li>          
      <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Cancelled due to COVID-19)</li>  
         <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
         <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
