@@ -13,13 +13,14 @@ nav-menu: true
 <ol reversed class = "tab">
 
 <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.   
+	
+<li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.
 		
 <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Accepted in Advanced Materials. 2020.     
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_4.png"  height = "180u" alt="centered image"/></span>
 </p>
      
-<li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019. 
 
 <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056.<a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a>, Featured in: <a href="https://msne.rice.edu/news/new-way-beat-heat-electronics/">Rice News</a> 
