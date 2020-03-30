@@ -12,9 +12,12 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
-<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.    
+<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.   
 		
-<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.     
+<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Accepted in Advanced Materials. 2020.     
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_4.png"  height = "180u" alt="centered image"/></span>
+</p>
      
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019. 
 
