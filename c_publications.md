@@ -16,20 +16,20 @@ nav-menu: true
 	
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.
 		
-<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Accepted in Advanced Materials. 2020.     
+<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Advanced Materials 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a>
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_4.png"  height = "180u" alt="centered image"/></span>
 </p>
      
 
-<li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056.<a 
+<li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Advanced Functtional Matererials 2019.<a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a>, Featured in: <a href="https://msne.rice.edu/news/new-way-beat-heat-electronics/">Rice News</a> 
 
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_3.png"  height = "180u" alt="centered image"/></span>
 </p>
 
-<li><b>Barnes</b>, Verduzco, Direct Shape Programming of Liquid Crystal Elastomers, Soft Matter, 15 (870), 1–11, 2019 <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a>, Featured in: <a href="http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/">Rice News</a>, <a href="https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News</a>, and the Royal Society of Chemistry's <a href="https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article">Chemistry World</a>
+<li><b>Barnes</b>, Verduzco, Direct Shape Programming of Liquid Crystal Elastomers, Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a>, Featured in: <a href="http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/">Rice News</a>, <a href="https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News</a>, and the Royal Society of Chemistry's <a href="https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article">Chemistry World</a>
 <div class="row">
 	<div class="4u 12u$(medium) aligncenter" >
         <span class="image"><img src="assets/images/pub_2.png"  height = "180u"/></span>
