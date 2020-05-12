@@ -135,11 +135,11 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
     <ol reversed class = "tab">
      <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers. Submitted. 2020.</li>          
      <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. Corrosion Resistance of Sulfur-Selenium Alloy Coatings. Submitted. 2019.        </li>
-     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. Ahmed, O. Shahin, C. Miller, S. Sajadi, M. Bennett, R. Verduzco, M. Yu, F. Merchant, J. C. Meredith, J. Youngblood, M. Rahman, P. M. Ajayan. Multifunctional Bio-nanocomposite Coatings for Perishable Fruits. Accepted in Advanced Materials. 2020.</li>
-     <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019, 1900056. <a 
-href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
-     <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter, 15 (870), 1–11, 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
-     <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
+     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits. Adv. Mater. 2020. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+     <li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. Fiber Reinforced Layered Dielectric Nanocomposite. Adv. Funct. Mater. 2019. <a 
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a> </li>
+     <li><b>Barnes</b>, Verduzco. Direct Shape Programming of Liquid Crystal Elastomers. Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+     <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. Molecular engineering of step-growth liquid crystal elastomers. Sensors Actuators B Chem. 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
     </ol>
 </p> 
 
