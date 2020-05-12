@@ -138,8 +138,8 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
      <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Adv. Mater. 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a></li>
      <li>M. M. Rahman, A. B. Puthirath, A. Adumbumkulath, T. Tsafack, H. Robatjazi, <b>M. Barnes</b>, Z. Wang, S. Kommandur, S. Susarla, S. M. Sajadi, D. Salpekar, F. Yuan, G. Babu, K. Nomoto, S. Islam, R. Verduzco, S. K. Yee, H. G. Xing, P. M. Ajayan, <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Adv. Funct. Mater. 2019. <a 
 href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
-     <li><b>Barnes</b>, Verduzco. <i>Direct Shape Programming of Liquid Crystal Elastomers</i>. Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
-     <li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem. 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
+     <li><b>M. Barnes</b>, R. Verduzco. <i>Direct Shape Programming of Liquid Crystal Elastomers</i>. Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+     <li>B. Zhu, <b>M. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem. 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
     </ol>
 </p> 
 
