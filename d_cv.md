@@ -68,7 +68,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 <p class="tab"><b>Undergraduate Honors Research Assistant</b>, <nobr>Baylor University, Waco, TX</nobr>
 <span style="float:right;">August 2011  - May 2013</span>
-<br><nobr>Worked in the Mechanical Engineering department the time-temperature viscoelastic properties of bulk
+ <br><nobr>Worked in the Mechanical Engineering</nobr> department the time-temperature viscoelastic properties of bulk
 polymers
 </p>
 
