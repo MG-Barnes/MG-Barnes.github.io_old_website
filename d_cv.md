@@ -66,10 +66,79 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <br><nobr>Worked in the NSF Triangle</nobr> Materials Research and Engineering center (MRSEC) using AFM force spectroscopy to investigate the crosslinking of click-coupled poly-protein gels
 </p>
 
-<p class="tab"><b>Undergraduate Research Assistant</b>, <nobr>University of Texas, Austin, TX</nobr>
-<span style="float:right;">May 2012  - August 2012</span>
-<br><nobr>Worked under Dr. Jorge Zornberg studying</nobr> the wetting and drying curves of soil and creating data acquisition systems
+<p class="tab"><b>Undergraduate Honors Research Assistant</b>, <nobr>Baylor University, Waco, TX</nobr>
+<span style="float:right;">August 2011  - May 2013</span>
+<br><nobr>Worked in the Mechanical Engineering department the time-temperature viscoelastic properties of bulk
+polymers
 </p>
+
+### Teaching
+<p class="tab"><b>MSNE 303: Junior Lab</b>, <nobr>Houston, TX</nobr>
+<span style="float:right;">Spring 2017, 2018, 2019</span>
+<br> <nobr>Lab Teaching Assistant</nobr>
+<br>Organized, instructed and graded the labs for the departmental undergraduate junior lab   
+</p>
+
+<p class="tab"><b>MSNE 555: Bio-Mimetic Strategies</b>, <nobr>Houston, TX</nobr>
+<span style="float:right;">Spring 2019</span>
+<br> Guest Lecturer
+<br>Gave a guest lecture for the upper level bio-mimetics course covering soft shape-shifting materials and  anti-fouling techniques
+</p>
+
+### Skills
+<p class="tab">
+Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic synthesis, rheology </p> 
+
+### Publications
+<p class="tab">
+    <ol reversed class = "tab">
+     <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Submitted. 2020.</li>          
+     <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019. </li>
+     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Adv. Mater. 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a></li>
+     <li>M. M. Rahman, A. B. Puthirath, A. Adumbumkulath, T. Tsafack, H. Robatjazi, <b>M. Barnes</b>, Z. Wang, S. Kommandur, S. Susarla, S. M. Sajadi, D. Salpekar, F. Yuan, G. Babu, K. Nomoto, S. Islam, R. Verduzco, S. K. Yee, H. G. Xing, P. M. Ajayan, <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Adv. Funct. Mater. 2019. <a 
+href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
+     <li><b>M. Barnes</b>, R. Verduzco. <i>Direct Shape Programming of Liquid Crystal Elastomers</i>. Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
+     <li>B. Zhu, <b>M. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem. 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
+    </ol>
+</p> 
+
+### Awards and Honors
+
+<p class="tab">
+    <ul class = "tab">
+        <li>2019 Soft Matter Outstanding Student Paper Award, Royal Society of Chemistry, 2020</li>
+        <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020</li>
+        <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
+        <li>Future Faculty Fellowship, Rice University, 2019</li>
+        <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
+        <li>Best Presentation award, Smalley-Curl Institute Summer Research Symposium, Rice University, 2018</li>
+        <li>Outstanding Teacher's Assistant Award, Rice University, 2018</li>
+        <li>Best Presentation award, Smalley-Curl Institute Trandisciplinary Symposium, Rice University, 2016</li>
+        <li>Triangle Materials Research Science and Engineering Center (MRSEC) Fellowship, 2013</li>
+        <li>Outstanding Engineering Senior award, Baylor University, 2013</li>
+        <li>Who's Who Among Students in American Universities and Colleges award, Baylor University, 2013</li>
+        <li>Presidents Gold Scholarship, Baylor University, 2009-2013</li>
+    </ul>
+</p> 
+
+
+### Presentations and Posters
+<p class="tab">
+    <ul class = "tab">
+        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Cancelled due to COVID-19)</li>          
+     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Cancelled due to COVID-19)</li>  
+        <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
+        <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
+        <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
+        <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
+         <li>American Chemical Society National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
+        <li>Smalley-Curl Institute Transdisciplinary Symposium, Rice University, contributed talk, "Extrusion-Aligned Liquid Crystal Elastomer Fibers", 2017</li>
+        <li>Texas Soft Matter Meeting, University of Texas at Dallas, contributed talk, "Step-Growth Liquid Crystal Elastomers with Low Glass Transition Temperatures", 2016</li>
+        <li>Industry Symposium, North Carolina Statue University, poster session, "Self-Assembled Biomaterials Using Streptavidin and SpyTag-SpyCatcher", 2015</li>
+        <li>Frontiers Conference, Duke University, poster session, "Self-Assembled Protein-Based Soft Materials with Tailorable Viscoelastic Properties", 2014</li>
+    </ul>
+</p> 
+
 
 ### Leadership and Engagement
 
@@ -112,72 +181,6 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <span style="float:right;">September 2010 - May 2013</span>
 <br><nobr>Volunteered regularly with the local</nobr> <i>Goodwill</i> ongoing education classes to prepare adults for the GED
 </p>
-
-### Teaching
-<p class="tab"><b>MSNE 303: Junior Lab</b>, <nobr>Houston, TX</nobr>
-<span style="float:right;">Spring 2017, 2018, 2019</span>
-<br> <nobr>Lab Teaching Assistant</nobr>
-<br>Organized, instructed and graded the labs for the departmental undergraduate junior lab   
-</p>
-
-<p class="tab"><b>MSNE 555: Bio-Mimetic Strategies</b>, <nobr>Houston, TX</nobr>
-<span style="float:right;">Spring 2019</span>
-<br> Guest Lecturer
-<br>Gave a guest lecture for the upper level bio-mimetics course covering soft shape-shifting materials and  anti-fouling techniques
-</p>
-
-### Skills
-<p class="tab">
-Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic synthesis, rheology </p> 
-
-### Publications
-<p class="tab">
-    <ol reversed class = "tab">
-     <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Submitted. 2020.</li>          
-     <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019. </li>
-     <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Adv. Mater. 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a></li>
-     <li>M. M. Rahman, A. B. Puthirath, A. Adumbumkulath, T. Tsafack, H. Robatjazi, <b>M. Barnes</b>, Z. Wang, S. Kommandur, S. Susarla, S. M. Sajadi, D. Salpekar, F. Yuan, G. Babu, K. Nomoto, S. Islam, R. Verduzco, S. K. Yee, H. G. Xing, P. M. Ajayan, <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Adv. Funct. Mater. 2019. <a 
-href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a> </li>
-     <li><b>M. Barnes</b>, R. Verduzco. <i>Direct Shape Programming of Liquid Crystal Elastomers</i>. Soft Matter 2019. <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">DOI: 10.1039/C8SM02174K</a></li>
-     <li>B. Zhu, <b>M. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco. <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem. 2017. <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
-    </ol>
-</p> 
-
-
-### Presentations and Posters
-<p class="tab">
-    <ul class = "tab">
-        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Cancelled due to COVID-19)</li>          
-     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Cancelled due to COVID-19)</li>  
-        <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
-        <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
-        <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
-        <li>Smalley-Curl Institute Summer Research Symposium, Rice University, selected talk, "Flat Sheets to 3D Images and Back: Programming Shape-Shifting Elastomers into Flowers, Faces, and More", 2018</li>
-         <li>American Chemical Society National Meeting, Washington DC, poster session, "Exploring the uses of a two-stage thiol-acrylate reaction for liquid crystal elastomers", 2017</li>
-        <li>Smalley-Curl Institute Transdisciplinary Symposium, Rice University, contributed talk, "Extrusion-Aligned Liquid Crystal Elastomer Fibers", 2017</li>
-        <li>Texas Soft Matter Meeting, University of Texas at Dallas, contributed talk, "Step-Growth Liquid Crystal Elastomers with Low Glass Transition Temperatures", 2016</li>
-        <li>Industry Symposium, North Carolina Statue University, poster session, "Self-Assembled Biomaterials Using Streptavidin and SpyTag-SpyCatcher", 2015</li>
-        <li>Frontiers Conference, Duke University, poster session, "Self-Assembled Protein-Based Soft Materials with Tailorable Viscoelastic Properties", 2014</li>
-    </ul>
-</p> 
-
-### Awards and Honors
-
-<p class="tab">
-    <ul class = "tab">
-        <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020</li>
-        <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
-        <li>Future Faculty Fellowship, Rice University, 2019</li>
-        <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
-        <li>Best Presentation award, Smalley-Curl Institute Summer Research Symposium, Rice University, 2018</li>
-        <li>Outstanding Teacher's Assistant Award, Rice University, 2018</li>
-        <li>Best Presentation award, Smalley-Curl Institute Trandisciplinary Symposium, Rice University, 2016</li>
-        <li>Triangle Materials Research Science and Engineering Center (MRSEC) Fellowship, 2013</li>
-        <li>Outstanding Engineering Senior award, Baylor University, 2013</li>
-        <li>Who's Who Among Students in American Universities and Colleges award, Baylor University, 2013</li>
-        <li>Presidents Gold Scholarship, Baylor University, 2009-2013</li>
-    </ul>
-</p> 
 
 ### Associations
 
