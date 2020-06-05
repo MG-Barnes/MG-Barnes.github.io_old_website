@@ -23,7 +23,7 @@ nav-menu: true
 </p>
      
 		
-<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Advanced Materials 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a>
+<li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Advanced Materials 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a>, Featured in: <a href="https://news.rice.edu/2020/06/04/egg-based-coating-preserves-fresh-produce/">Rice News</a> 
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_4.png"  height = "180u" alt="centered image"/></span>
 </p>
