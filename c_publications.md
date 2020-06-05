@@ -12,9 +12,16 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
-<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 4D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Submitted. 2020.   
+   
 	
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.
+
+<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Accepted in ACS AMI. 2020. <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>
+	
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_5.png"  height = "180u" alt="centered image"/></span>
+</p>
+     
 		
 <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Advanced Materials 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a>
 <p class="aligncenter">
