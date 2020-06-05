@@ -30,7 +30,7 @@ nav-menu: true
     	</div>
 	<div class="6u 12u$(medium)">
         <div class="embedded-iframe" style ="text-align:left;">
-            <iframe src="https://youtu.be/embed/dCSvs1_WgFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/dCSvs1_WgFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     	</div>
 </div>
