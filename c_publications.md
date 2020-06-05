@@ -27,13 +27,12 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(medium) aligncenter" >
         <span class="image"><img src="assets/images/pub_4.png"  height = "180u"/></span>
-    </div>
+    	</div>
 	<div class="6u 12u$(medium)">
         <div class="embedded-iframe" style ="text-align:center;">
             <iframe src="https://youtu.be/dCSvs1_WgFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-    </div>
-    </div>
+    	</div>
 </div>
      
 
