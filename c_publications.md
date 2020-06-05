@@ -19,7 +19,7 @@ nav-menu: true
 <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Accepted in ACS AMI. 2020. <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>
 	
 <p class="aligncenter">
-    <span class="image"><img src="assets/images/pub_5.png"  height = "180u" alt="centered image"/></span>
+    <span class="image"><img src="assets/images/TOC.tiff"  height = "180u" alt="centered image"/></span>
 </p>
      
 		
