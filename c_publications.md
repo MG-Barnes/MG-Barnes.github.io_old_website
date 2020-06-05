@@ -36,7 +36,7 @@ nav-menu: true
 </div>
      
 
-<li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Advanced Functtional Matererials 2019.<a 
+<li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Advanced Functional Matererials 2019.<a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1002/adfm.201900056</a>, Featured in: <a href="https://msne.rice.edu/news/new-way-beat-heat-electronics/">Rice News</a> 
 
 <p class="aligncenter">
