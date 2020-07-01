@@ -24,7 +24,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 ### Education 
 
 <p class="tab"><b>Rice University</b>, Houston, TX
-<span style="float:right;">June 2016 - 2020 (<i>expected</i>)</span>
+<span style="float:right;">June 2016 - May 2021 (<i>expected</i>)</span>
 <br><nobr>PhD Materials Science and NanoEngineering</nobr>
 <br>Dissertation (<i>working title</i>): <i>Designing Anisotropic Polymers: From Shape Shifting Elastomers to Strong 2D Films</i>
 <br>Advisor: Dr. Rafael Verduzco
@@ -47,12 +47,12 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 ### Experience
 <p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
-<span style="float:right;">January 2020 - August 2020</span>
+<span style="float:right;">February 2020 - Decemeber 2020</span>
 <br><nobr>Working in the Weapons</nobr> and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films
 </p>
  
 <p class="tab"><b>Graduate Research Assistant</b>, Rice University, Houston, TX 
-<span style="float:right;">June 2016 - Fall 2020 (Expected)</span>
+<span style="float:right;">June 2016 - May 2021 (Expected)</span>
 <br><nobr>Working in the Materials</nobr> Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films 
 </p>
 
