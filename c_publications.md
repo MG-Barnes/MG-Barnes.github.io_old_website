@@ -16,7 +16,7 @@ nav-menu: true
 	
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.
 
-<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. Rahman, P. Ajayan, R. Verduzco. <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomers</i>. Accepted in ACS AMI. 2020. <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>, Featured in: <a href="https://news.rice.edu/2020/06/09/lab-makes-4d-printing-more-practical/">Rice News</a> 
+<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. M. Rahman, P. M. Ajayan, R. Verduzco, <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators</i>. ACS Appl. Mater. Interfaces (2020), <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>, Featured in: <a href="https://news.rice.edu/2020/06/09/lab-makes-4d-printing-more-practical/">Rice News</a> 
 <div class="row">
 	<div class="6u 12u$(medium) aligncenter" >
         <span class="image"><img src="assets/images/pub_5.png"  height = "180u"/></span>
