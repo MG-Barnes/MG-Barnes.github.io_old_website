@@ -12,11 +12,16 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
-   
+ <li>D. Zhu, Z. Zhang, Y. Li, <b>M. Barnes</b>, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates</i>. Submitted.
 	
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.
 
-<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. M. Rahman, P. M. Ajayan, R. Verduzco, <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators</i>. ACS Appl. Mater. Interfaces (2020), <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>, Featured in: <a href="https://news.rice.edu/2020/06/09/lab-makes-4d-printing-more-practical/">Rice News</a> 
+<li>D. Zhu, X. Li, Y. Li, <b>M. Barnes</b>, C. Tseng, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Transformation of One-Dimensional Linear Polymers into Two-Dimensional Covalent Organic Frameworks Through Sequential Reversible and Irreversible Chemistries</i>. Chem. Mater. 2020, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c04237"> DOI: 10.1021/acs.chemmater.0c04237</a>
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_6.png"  height = "180u" alt="centered image"/></span>
+</p>
+	
+<li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. M. Rahman, P. M. Ajayan, R. Verduzco, <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators</i>. ACS Appl. Mater. Interfaces 2020, <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>, Featured in: <a href="https://news.rice.edu/2020/06/09/lab-makes-4d-printing-more-practical/">Rice News</a> 
 <div class="row">
 	<div class="6u 12u$(medium) aligncenter" >
         <span class="image"><img src="assets/images/pub_5.png"  height = "180u"/></span>
