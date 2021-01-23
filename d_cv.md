@@ -92,7 +92,9 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Publications
 <p class="tab">
     <ol reversed class = "tab"> 
+     <li>D. Zhu, Z. Zhang, Y. Li, <b>M. Barnes</b>, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates</i>. Submitted. </li>
      <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019. </li>
+     <li>D. Zhu, X. Li, Y. Li, <b>M. Barnes</b>, C. Tseng, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Transformation of One-Dimensional Linear Polymers into Two-Dimensional Covalent Organic Frameworks Through Sequential Reversible and Irreversible Chemistries</i>. Chem. Mater. 2020. </li>
      <li><b>M. Barnes</b>, S. Sajadi, S. Parekh, M. M. Rahman, P. M. Ajayan, R. Verduzco, <i>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators</i>. ACS Appl. Mater. Interfaces (2020), <a href="https://pubs.acs.org/doi/10.1021/acsami.0c07331">DOI: 10.1021/acsami.0c07331</a>.</li> 
      <li>S. Jung, Y. Cui, <b>M. Barnes</b>, C. Satam, S. Zhang, R. A. Chowdhury, A. Adumbumkulath, O. Sahin, C. Miller, S. M. Sajadi, L. M. Sassi, Y. Ji, M. R. Bennett, M. Yu, J. Friguglietti, F. A. Merchant, R. Verduzco, S. Roy, R. Vajtai, J. C. Meredith, J. P. Youngblood, N. Koratkar, M. M. Rahman, P. M. Ajayan, <i>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</i>. Adv. Mater. 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201908291">DOI: 10.1002/adma.201908291</a></li>
      <li>M. M. Rahman, A. B. Puthirath, A. Adumbumkulath, T. Tsafack, H. Robatjazi, <b>M. Barnes</b>, Z. Wang, S. Kommandur, S. Susarla, S. M. Sajadi, D. Salpekar, F. Yuan, G. Babu, K. Nomoto, S. Islam, R. Verduzco, S. K. Yee, H. G. Xing, P. M. Ajayan, <i>Fiber Reinforced Layered Dielectric Nanocomposite</i>. Adv. Funct. Mater. 2019. <a 
@@ -125,8 +127,9 @@ href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.10
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
-        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Cancelled due to COVID-19)</li>          
-     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Cancelled due to COVID-19)</li>  
+     <li>Naval Research Laboratory, Washington DC, Invited Seminar, "Double Network Liquid Crystal Elastomer Actuators", 2021 (Virtual due to COVID-19)</li>
+        <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Virtual due to COVID-19)</li>          
+     <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Virtual due to COVID-19)</li>  
         <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
         <li>American Physical Society March Meeting, Boston, Massachusetts, contributed talk, "Programming Complex and Arbitrary Shape Changes in Liquid Crystal Elasotmers", 2019</li>
         <li>Texas Soft Matter Conference, University of Texas, contributed talk, "Mechanically Programming Complex Reversible Shape Changes in Liquid Crystal Elastomers", 2018</li>
