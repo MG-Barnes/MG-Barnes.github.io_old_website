@@ -12,11 +12,11 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
- <li>A. Khater, S, Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan<i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted.
-	
- <li>D. Zhu, Z. Zhang, Y. Li, <b>M. Barnes</b>, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates</i>. Submitted.
-	
-<li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted.
+ <li>A. Khater, S, Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan<i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
+     
+<li>D. Zhu, Z. Zhang, Y. Li, <b>M. Barnes</b>, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates</i>. Submitted.  <a href="https://chemrxiv.org/articles/preprint/Rapid_Ambient_Temperature_Synthesis_of_Imine_Covalent_Organic_Frameworks_Catalyzed_by_Transition_Metal_Nitrates/12762314/1">CHEMrxiv</a>.
+     
+<li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.  <a href="https://arxiv.org/abs/2009.02451">arxiv</a>.
 
 <li>D. Zhu, X. Li, Y. Li, <b>M. Barnes</b>, C. Tseng, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco. <i>Transformation of One-Dimensional Linear Polymers into Two-Dimensional Covalent Organic Frameworks Through Sequential Reversible and Irreversible Chemistries</i>. Chem. Mater. 2020, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c04237"> DOI: 10.1021/acs.chemmater.0c04237</a>
 <p class="aligncenter">
