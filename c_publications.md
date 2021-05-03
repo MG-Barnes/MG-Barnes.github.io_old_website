@@ -12,7 +12,7 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
- <li>A. Khater, S, Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan<i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
+ <li>A. Khater, S, Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
      
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.  <a href="https://arxiv.org/abs/2009.02451">arxiv</a>.
 	
