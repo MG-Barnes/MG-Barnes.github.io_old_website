@@ -110,12 +110,13 @@ href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.10
 
 <p class="tab">
     <ul class = "tab">
+        <li>Best Overall Presentation Award, MSNE Graduate Student Seminar, 2021</li> 
         <li>2019 Soft Matter Outstanding Student Paper Award, Royal Society of Chemistry, 2020</li>
         <li>ORAU Journeyman Fellowship, Army Research Laboratory, 2020</li>
         <li>Best Student Lecturer Award, International Liquid Crystal Elasomters Conference, Eindhoven, Netherlands, 2019</li>
         <li>Future Faculty Fellowship, Rice University, 2019</li>
         <li>NSF Future Faculty Workshop Travel Award, Princeton University, 2019</li>
-        <li>Best Presentation award, Smalley-Curl Institute Summer Research Symposium, Rice University, 2018</li>
+        <li>Best Presentation Award, Smalley-Curl Institute Summer Research Symposium, Rice University, 2018</li>
         <li>Outstanding Teacher's Assistant Award, Rice University, 2018</li>
         <li>Best Presentation award, Smalley-Curl Institute Trandisciplinary Symposium, Rice University, 2016</li>
         <li>Triangle Materials Research Science and Engineering Center (MRSEC) Fellowship, 2013</li>
