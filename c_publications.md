@@ -16,6 +16,11 @@ nav-menu: true
      
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Submitted. 2019.  <a href="https://arxiv.org/abs/2009.02451">arxiv</a>.
 
+<li>D. Zhu, G. Xu, <b>M. Barnes</b>, Y. Li, C. P. Tseng, Z. Zhang, J. J. Zhang, Y. Zhu, S. Khalil, M. M. Rahman, R. Verduzco, P. M. Ajayan, Covalent Organic Frameworks for Batteries. Adv. Funct. Mater. 2021, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202100505">DOI: 10.1002/adfm.202100505</a>. 
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_9.png"  height = "180u" alt="centered image"/></span>
+</p>
+	
  <li>D. Zhu, Y. Zhu, Q. Yan, <b>M. Barnes</b>, F. Liu, P. Yu, C.-P. Tseng, N. Tjahjono, P.-C. Huang, M. M. Rahman, E. Egap, P. M. Ajayan, R. Verduzco. <i>Pure Crystalline Covalent Organic Framework Aerogels</i>. Chem. Mater. 2021, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c01122">DOI: 10.1021/acs.chemmater.1c01122</a>, Featured in: <a href="https://news.rice.edu/2021/06/07/absorbent-aerogels-show-some-muscle-2/">Rice News</a> 
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_8.png"  height = "180u" alt="centered image"/></span>
