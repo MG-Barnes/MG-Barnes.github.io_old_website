@@ -1,6 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
+  spec.add_dependency "bundler", ">= 2.2.10"
   spec.name          = "forty_jekyll_theme"
   spec.version       = "1.2"
   spec.authors       = ["Andrew Banchich"]
