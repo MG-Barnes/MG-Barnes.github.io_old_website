@@ -3,4 +3,3 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.gem
-spec.add_dependency "bundler", ">= 2.2.10"
