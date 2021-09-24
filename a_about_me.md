@@ -13,7 +13,7 @@ Polymers are ubiquitous in our lives from the toothbrushes we use, the fabrics w
 
 The focus of my research is to develop these novel multi-functional anisotropic polymers using a combination of chemical engineering, mechanics, and physics. Specifically I work with liquid crystal elastomers (LCEs) to create reversible shape-shifting soft materials and covalent organic frameworks (COFs) to make strong, tough films. Both LCEs and COF films have promising applications, including soft-robotics, biomedical devices, and ulta-light weight armor.
 
-I have mentored many students and teachers in the laboratory for research projects and regularly give lectures and lab tours to many different groups that visit Rice. Feel free to contact me with any questions about my work or research in general!
+I have mentored many students and teachers in the laboratory for research projects and regularly give lectures and lab tours to many different visiting groups. Feel free to contact me with any questions about my work or research in general!
 
 
  
