@@ -26,7 +26,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 <p class="tab"><b>Rice University</b>, Houston, TX
 <span style="float:right;">June 2016 - August 2021</span>
 <br><nobr>PhD Materials Science and NanoEngineering</nobr>
-<br>Dissertation (<i>working title</i>): <i>Designing Anisotropic Polymers: From Shape Shifting Elastomers to Strong 2D Films</i>
+<br>Dissertation: <i>Designing Functional Anisotropic Polymers: From Shape Shifting Elastomers to 2-Dimensional Films</i>
 <br>Advisor: Dr. Rafael Verduzco
 </p>
 
