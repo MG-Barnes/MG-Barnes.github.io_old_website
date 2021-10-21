@@ -46,14 +46,20 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 
 ### Experience
+
+<p class="tab"><b>Postdoctoral Research Associate</b>, Univeristy of Cambridge, Cambridge, UK 
+<span style="float:right;">September 2021 - September 2023</span>
+<br><nobr>Working in the Mechanics, Materials, and Design division within the Engineering department to develop functional shape-shifting liquid crystal devices
+</p>
+
 <p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">February 2020 - Decemeber 2020</span>
-<br><nobr>Working in the Weapons</nobr> and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films
+<br><nobr>Worked in the Weapons</nobr> and Materials Research Directorate at ARL to synthesize 2D covalent organic framework films for high-strength high-toughness films
 </p>
  
 <p class="tab"><b>Graduate Research Assistant</b>, Rice University, Houston, TX 
 <span style="float:right;">June 2016 - August 2021</span>
-<br><nobr>Working in the Materials</nobr> Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films 
+<br><nobr>Worked in the Materials</nobr> Science and NanoEngineering department to develop multi-functional polymers including stimuli-responsive soft actuators and mechanically strong thin films 
 </p>
 
 <p class="tab"><b>Research Technician</b>, Rice University, Houston, TX 
