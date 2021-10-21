@@ -46,11 +46,9 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 
 ### Experience
-
 <p class="tab"><b>Postdoctoral Research Associate</b>, Univeristy of Cambridge, Cambridge, UK 
 <span style="float:right;">September 2021 - September 2023</span>
-<br><nobr>Working in the Mechanics, Materials, and Design division within the Engineering department to develop functional shape-shifting liquid crystal devices
-</p>
+ <br><nobr>Working in the Mechanics, Materials, and Design</nobr> division within the Engineering department to develop functional shape-shifting liquid crystal devices</p>
 
 <p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
 <span style="float:right;">February 2020 - Decemeber 2020</span>
