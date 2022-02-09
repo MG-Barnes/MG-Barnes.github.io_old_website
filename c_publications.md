@@ -12,9 +12,14 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 
+	<li><a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">Highly Crystalline Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</a>.<b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth. ACS Appl. Mater. Interfaces 2022. 
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub12.png"  height = "180u" alt="centered image"/></span>
+</p>
+		
  <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
 	 
-<li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth, Highly Crystalline. <i>Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</i>. ACS Appl. Mater. Interfaces 2022. <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">DOI: 10.1021/acsapm.1c01828</a>.
+<li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth, <i> Highly Crystalline Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</i>. ACS Appl. Mater. Interfaces 2022. <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">DOI: 10.1021/acsapm.1c01828</a>.
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub12.png"  height = "180u" alt="centered image"/></span>
 </p>
