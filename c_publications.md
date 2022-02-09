@@ -15,8 +15,14 @@ nav-menu: true
  <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
 	 
 <li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth, Highly Crystalline. <i>Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</i>. ACS Appl. Mater. Interfaces 2022. <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">DOI: 10.1021/acsapm.1c01828</a>.
-     
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_12.png"  height = "180u" alt="centered image"/></span>
+</p>
+	
 <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Adv. Mater. 2021.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.202104467">DOI: 10.1002/adma.202104467</a>.
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_11.png"  height = "180u" alt="centered image"/></span>
+</p>
 
 <li>D. Zhu, Z. Hu, T. K. Rogers, <b>M. Barnes</b>, C. Tseng, H. Mei, L. M. Sassi, Z. Zhang, M. M. Rahman, P. M. Ajayan, R. Verduzco, <i>Patterning, Transfer, and Tensile Testing of Covalent Organic Framework Films with Nanoscale Thickness.</i> Chem. Mater. 2021, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c01179">DOI: 10.1021/acs.chemmater.1c01179</a>. 
 <p class="aligncenter">
