@@ -97,7 +97,7 @@ href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">DOI: 10.1
         </div>
     </div>
 </div>
-<li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco, <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem., vol. 244, pp. 433440, 2017.  <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
+<li>B. Zhu, <b>M. G. Barnes</b>, H. Kim, M. Yuan, H. Ardebili, and R. Verduzco, <i>Molecular engineering of step-growth liquid crystal elastomers</i>. Sensors Actuators B Chem. 2017.  <a href="https://www.sciencedirect.com/science/article/pii/S0925400516321128/">DOI: 10.1016/j.snb.2016.12.141</a></li>
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_1.png"  height = "180u" alt="centered image"/></span>
 </p>
