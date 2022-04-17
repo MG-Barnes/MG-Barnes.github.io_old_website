@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 nav-menu: true
-image: assets/images/about_me_reduced.jpg
+image: assets/images/about_me_reduced.jpeg
 
 ---
 <span class="image right"><img src="assets/images/about_me_reduced.jpg" alt="" /></span>
