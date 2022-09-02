@@ -79,14 +79,14 @@ nav-menu: true
 </div>
      
 
-<li>Rahman, M. M.; Puthirath, A. B.; Adumbumkulath, A.; Tsafack, T.; Robatjazi, H.; <b>Barnes, M.</b>; Wang, Z.; Kommandur, S.; Susarla, S.; Sajadi, S. M.; et al. <a 
+<li>M. M. Rahman, A. B. Puthirath, A. Adumbumkulath, T. Tsafack, H. Robatjazi, <b>M. Barnes</b>, Z. Wang, S. Kommandur, S. Susarla, S. M. Sajadi,  D. Salpekar, F. Yuan, G. Babu, K. Nomoto, S. Islam, R. Verduzco, S. Yee, H. G. Xing, P. M. Ajayan <a 
 href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201900056">Fiber Reinforced Layered Dielectric Nanocomposite</a>. Advanced Functional Matererials 2019. Featured in: <a href="https://msne.rice.edu/news/new-way-beat-heat-electronics/">Rice News</a> 
 
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub_3.png"  height = "180u" alt="centered image"/></span>
 </p>
 
-<li><b>Barnes</b>, Verduzco, <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">Direct Shape Programming of Liquid Crystal Elastomers</a>. Soft Matter 2019. Featured in: <a href="http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/">Rice News</a>, <a href="https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News</a>, and the Royal Society of Chemistry's <a href="https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article">Chemistry World</a>
+<li><b>M. Barnes</b>,R. Verduzco, <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">Direct Shape Programming of Liquid Crystal Elastomers</a>. Soft Matter 2019. Featured in: <a href="http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/">Rice News</a>, <a href="https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News</a>, and the Royal Society of Chemistry's <a href="https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article">Chemistry World</a>
 <div class="row">
 	<div class="4u 12u$(medium) aligncenter" >
         <span class="image"><img src="assets/images/pub_2.png"  height = "180u"/></span>
