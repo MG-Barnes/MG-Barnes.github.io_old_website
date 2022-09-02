@@ -13,8 +13,13 @@ nav-menu: true
 <ol reversed class = "tab">
 		
  <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <a href="https://arxiv.org/abs/2103.02672">Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</a>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
+
+<li><b>M. Barnes</b>, S. Cetinkaya, A. Ajnsztajn, R. Verduzco.<a href="[https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00480a)">Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers</a>. Soft Matter 2022.
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub13.png"  height = "180u" alt="centered image"/></span>
+</p>
 	
-<li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth, <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">Highly Crystalline Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</a>. ACS Applied Material Interfaces 2022.
+<li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth. <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">Highly Crystalline Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</a>. ACS Applied Material Interfaces 2022.
 <p class="aligncenter">
     <span class="image"><img src="assets/images/pub12.png"  height = "180u" alt="centered image"/></span>
 </p>
