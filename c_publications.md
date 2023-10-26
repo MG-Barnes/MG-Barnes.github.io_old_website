@@ -12,7 +12,31 @@ nav-menu: true
 </style>
 <ol reversed class = "tab">
 		
- <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <a href="https://arxiv.org/abs/2103.02672">Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</a>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.
+
+<li>F. Fang, K. Dradrach, M. Zmyślony, <b>M. Barnes</b>, J. S. Biggins. <i></i>.<a href="https://www.researchgate.net/publication/373686077_Geometry_mechanics_and_actuation_of_intrinsically_curved_folds">Geometry, mechanics and actuation of intrinsically curved folds</a>. Submitted. 
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_18.png"  height = "180u" alt="centered image"/></span>
+</p>
+
+<li> <b>M. Barnes</b>, F. Fang, J. Biggins. <a href="https://arxiv.org/abs/2303.07215">Surface instability in a nematic elastomer</a>. Accepted at PRL. 2023
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_17.png"  height = "180u" alt="centered image"/></span>
+</p>
+
+<li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan.<a href="https://www.sciencedirect.com/science/article/pii/S2666386423004307?via%3Dihub">Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</a>. Cell Reports Physical Science. 2023
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_16.png"  height = "180u" alt="centered image"/></span>
+</p>
+	
+<li>A. Ajnsztajn, V. Harikrishnan, S. B. Alahakoon, D. Zhu, <b>M. Barnes</b>, J. Daum, J. Gayle, G. Tomur, J. Lowenstein, S. Roy, P. M. Ajayan, and R. Verduzco.<a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302304">Synthesis and Additive Manufacturing of Hydrazone linked Covalent Organic Framework Aerogels</a>. Chem. Eur. J. 2023  
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_15.png"  height = "180u" alt="centered image"/></span>
+</p>
+	
+<li>S. Khalil, M. Meyer, M. Samani, C. Huang, <b>M. Barnes</b>, A. Marciel, R. Verduzco.<a href="https://pubs.acs.org/doi/full/10.1021/acsnano.2c08580">Enabling Solution Processible COFs through Suppression of Precipitation during Solvothermal Synthesis</a>. ACS Nano 2022.
+<p class="aligncenter">
+    <span class="image"><img src="assets/images/pub_14.png"  height = "180u" alt="centered image"/></span>
+</p>
 
 <li><b>M. Barnes</b>, S. Cetinkaya, A. Ajnsztajn, R. Verduzco.<a href="https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00480a">Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers</a>. Soft Matter 2022.
 <p class="aligncenter">
