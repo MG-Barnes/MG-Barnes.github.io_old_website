@@ -47,7 +47,7 @@ polymers, liquid crystal elastomers, shape-shifting materials, covalent organic 
 
 ### Experience
 <p class="tab"><b>Postdoctoral Research Associate</b>, Univeristy of Cambridge, Cambridge, UK 
-<span style="float:right;">September 2021 - September 2023</span>
+<span style="float:right;">September 2021 - Present</span>
  <br><nobr>Working in the Mechanics, Materials, and Design</nobr> division within the Engineering department to develop functional shape-shifting liquid crystal devices</p>
 
 <p class="tab"><b>ORAU Journeyman Fellow</b>, Army Research Laboratory, Aberdeen, MD 
@@ -96,9 +96,11 @@ Matlab, Pythol, DMA, DSC, TGA, AFM spectroscopy, NMR, GPC, XRD, FTIR, organic sy
 ### Publications
 <p class="tab">
     <ol reversed class = "tab"> 
-     <li> <b>M. Barnes</b>, F. Fang, J. Biggins. <i>Surface instability in a nematic elastomer</i>. Submitted. <a href="https://arxiv.org/abs/2303.07215">arxiv</a>.</li> 
-     <li>S. Khalil, M. Meyer, M. Samani, C. Huang, <b>M. Barnes</b>, A. Marciel, R. Verduzco. <i>Enabling Solution Processible COFs through Suppression of Precipitation during Solvothermal Synthesis</i>. ACS Nano 2022. <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.2c08580">DOI: 10.1021/acsnano.2c08580</a>.</li> 
-     <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://arxiv.org/abs/2103.02672">arxiv</a>.</li>
+     <li>\item F. Fang, K. Dradrach, M. Zmyślony, <b>M. Barnes</b>, J. S. Biggins. <i>Geometry, mechanics and actuation of intrinsically curved folds</i>. Submitted. <a href="https://www.researchgate.net/publication/373686077_Geometry_mechanics_and_actuation_of_intrinsically_curved_folds">Research Hub</a>. </li>
+     <li> <b>M. Barnes</b>, F. Fang, J. Biggins. <i>Surface instability in a nematic elastomer</i>. Accepted at PRL. <a href="https://arxiv.org/abs/2303.07215">arxiv</a>.</li> 
+     <li>A. Khater, S. Bhattacharyya, M. Saadi, <b>M. Barnes</b>, M. Lou, V. Harikrishnan, S.M. Sajadi, P.J. Boul, C.S. Tiwary, H, Zhu, M.M. Rahman, P. Ajayan. <i>Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites</i>. Submitted. <a href="https://www.sciencedirect.com/science/article/pii/S2666386423004307?via%3Dihub">DOI: 10.1016/j.xcrp.2023.101617</a>.</li>
+     <li>A. Ajnsztajn, V. Harikrishnan, S. B. Alahakoon, D. Zhu, <b>M. Barnes</b>, J. Daum, J. Gayle, G. Tomur, J. Lowenstein, S. Roy, P. M. Ajayan, and R. Verduzco. <i>Synthesis and Additive Manufacturing of Hydrazone linked Covalent Organic Framework Aerogels.</i> Chem. Eur. J. 2023. <a href="[https://pubs.acs.org/doi/full/10.1021/acsnano.2c08580](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302304)">DOI: 10.1002/chem.202302304</a>.</li>  
+     <li>S. Khalil, M. Meyer, M. Samani, C. Huang, <b>M. Barnes</b>, A. Marciel, R. Verduzco. <i>Enabling Solution Processible COFs through Suppression of Precipitation during Solvothermal Synthesis</i>. ACS Nano 2022. <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.2c08580">DOI: 10.1021/acsnano.2c08580</a>.</li>      
      <li><b>M. Barnes</b>, S. Cetinkaya, A. Ajnsztajn, R. Verduzco. <i>Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers</i>. Soft Matter 2022, , <a href="https://[pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00480a)">DOI: 10.1039/D2SM00480A</a>.</li>.
      <li><b>M. Barnes</b>, D. C. Mcleod, R. H. Lambeth. <i>Highly Crystalline Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</i>. ACS Appl. Mater. Interfaces 2022, <a href="https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf">DOI: 10.1021/acsapm.1c01828</a>.</li>
      <li>S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, <b>M. Barnes</b>, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan. <i>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</i>. Adv. Mater. 2021, <a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.202104467">DOI: 10.1002/adma.202104467</a>.</li>
@@ -140,7 +142,10 @@ href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056">DOI: 10.10
 ### Presentations and Posters
 <p class="tab">
     <ul class = "tab">
-     <li>Naval Research Laboratory, Washington DC, Invited Seminar, "Double Network Liquid Crystal Elastomer Actuators", 2021 (Virtual due to COVID-19)</li>
+     <li>Wetting of Flexible, Adaptive, and Switchable Substrates Workshop, Berlin, Germany, poster session, "Responsive Water Pinning in Liquid Crystal Elastomers", 2023 </li>
+     <li>International Liquid Crystal Elasotmer Conference, Boulder, Co, contributed talk, "Microstructures and Surface Instabilities in Liquid Crystal Elastomers", 2023 </li>
+     <li>University of Cambridge, UK, invited seminar, "Mechanically Programmable Liquid Crystal Elastomer Actuators", 2021 </li>
+     <li>Naval Research Laboratory, Washington DC, invited seminar, "Double Network Liquid Crystal Elastomer Actuators", 2021 (Virtual due to COVID-19)</li>
         <li>American Chemical Society National Meeting, Philadelphia, PA, contributed talk, "Reactive 4D Printing of Mechanically Programmable Liquid Crystal Elastomer Actuators", 2020 (Virtual due to COVID-19)</li>          
      <li>American Physical Society March Meeting, Denver, CO, contributed talk, "4D Printing of Mechanically Programmable Shape-Shifting Liquid Crystal Elastomers", 2020 (Virtual due to COVID-19)</li>  
         <li>International Liquid Crystal Elastomer Conference, Eindhoven, Netherlands, contributed talk, "Reactive 3D-Printing of Liquid Crystal Elastomers for Non-Linear Actuation", 2019</li>        
